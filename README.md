@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nick-lee13
+- 👀 I’m interested in coding, computer science, data strcutures and algorithms, and anything tech related!
+- 🌱 I’m currently learning Database systems and algorithm analysis.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me-> Email: ntlee@mta.ca
